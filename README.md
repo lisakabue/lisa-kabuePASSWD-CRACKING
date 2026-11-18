@@ -13,7 +13,7 @@ This project involved practical password-cracking exercises using John the Rippe
 - Johnny (Graphical User Interface)
 
 ## Practical Activities
-- Performed password-cracking exercises on two locked files.
+- Performed password-cracking exercises on two locked Pdf files.
 - Successfully recovered the passwords.
 - Captured two flags provided by Networkwalks Academy as proof of successful completion.
 
